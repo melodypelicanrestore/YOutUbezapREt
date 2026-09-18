@@ -224,5 +224,7 @@ sc delete название_из_первого_шага
 [![Contributors](https://contrib.rocks/image?repo=Flowseal/zapret-discord-youtube)](https://github.com/Flowseal/zapret-discord-youtube/graphs/contributors)
 
 💖 Отдельная благодарность разработчику [zapret](https://github.com/bol-van/zapret) - [bol-van](https://github.com/bol-van)
-> Built with [GitHub CLI](https://cli.github.com/)
+### License
+
+MIT. Use at your own risk.
 
